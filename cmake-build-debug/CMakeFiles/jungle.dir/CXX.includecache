@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/University/Second/AP/HW/HW06/Jungle/Animal.h
+
+D:/University/Second/AP/HW/HW06/Jungle/DomesticAnimal.h
+Animal.h
+D:/University/Second/AP/HW/HW06/Jungle/Animal.h
+
+D:/University/Second/AP/HW/HW06/Jungle/Jungle.h
+Animal.h
+D:/University/Second/AP/HW/HW06/Jungle/Animal.h
+
+D:/University/Second/AP/HW/HW06/Jungle/Pet.h
+Animal.h
+D:/University/Second/AP/HW/HW06/Jungle/Animal.h
+
+D:/University/Second/AP/HW/HW06/Jungle/WildAnimal.h
+Animal.h
+D:/University/Second/AP/HW/HW06/Jungle/Animal.h
+
+D:/University/Second/AP/HW/HW06/Jungle/main.cpp
+iostream
+-
+iomanip
+-
+cmath
+-
+Jungle.h
+D:/University/Second/AP/HW/HW06/Jungle/Jungle.h
+DomesticAnimal.h
+D:/University/Second/AP/HW/HW06/Jungle/DomesticAnimal.h
+WildAnimal.h
+D:/University/Second/AP/HW/HW06/Jungle/WildAnimal.h
+Pet.h
+D:/University/Second/AP/HW/HW06/Jungle/Pet.h
+

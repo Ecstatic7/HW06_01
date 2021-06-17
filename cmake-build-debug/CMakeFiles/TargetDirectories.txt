@@ -1,0 +1,3 @@
+D:/University/Second/AP/HW/HW06/Jungle/cmake-build-debug/CMakeFiles/jungle.dir
+D:/University/Second/AP/HW/HW06/Jungle/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/University/Second/AP/HW/HW06/Jungle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
